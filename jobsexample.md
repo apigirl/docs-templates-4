@@ -7,6 +7,7 @@ To create a new template:
 1. From the left-hand navigation, select **Campaigns**, and then select **Templates**. 
 1. Click **Create New Template**. 
 1. Select the editor you want to use, and then click **Continue**.
+    
     <img src="Select_Editor.png" width="300"/>
 
 > <img src="http://www.free-icons-download.net/images/developer-icon-17862.png" width="40"/>: Developers can use the [POST /campaigns API](https://sendgrid.api-docs.io/v3.0/campaigns-api/create-a-campaign) to programmatically upload a template that you can then go in and edit using the Marketing Campaigns application.  

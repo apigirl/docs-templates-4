@@ -1,4 +1,4 @@
-Docs Templates
+# Docs Templates
 
 [Jobs to be done template](jobstemplate.md)
 

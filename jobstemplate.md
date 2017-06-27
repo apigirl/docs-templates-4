@@ -68,7 +68,7 @@ Nullam non nibh vitae diam imperdiet dapibus et nec dui.
 - Vestibulum in leo lectus. Nulla blandit **massa quam**, nec posuere mi finibus sit amet. Duis finibus mi sit amet ligula fermentum interdum.
 - Curabitur tristique pellentesque fermentum.
 
-## Further reading
+## Next Steps
 
 - related link
 - related link

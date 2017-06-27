@@ -3,7 +3,7 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi metus nibh, dapibus nec gravida quis, varius at enim. Donec mattis a arcu sollicitudin consequat. Proin enim dolor, lobortis vitae tincidunt eu, aliquam vel felis.
 <!-- Short description - one to two sentances describing the value of completing the task - key word is value, this should *not* just be a description of the task. -->
 
-## Before you begin
+### Before you begin
 <!-- Prerequisites - these should describe anything that is required in order to complete the task, and anything that you may want to consider before creating the task -->
 - Set up [this very important thing](https://sendgrid.com/docs/User_Guide/Marketing_Campaigns/custom_fields.html) to complete this task.
 

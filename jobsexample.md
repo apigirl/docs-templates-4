@@ -33,6 +33,8 @@ To duplicate a SendGrid template:
 1. Locate the template you want to duplicate and then click the **action menu**.
 1. Select **Duplicate**. The duplicate opens in the design editor.
 
+    ![Duplicating a template](https://media.giphy.com/media/qz6kZvOpTCtmo/giphy.gif)
+
 ## Duplicating a custom template
 To duplicate one of your custom templates:
 
